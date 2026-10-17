@@ -77,7 +77,7 @@ The complete auditing and remediation lifecycle consists of the following logica
 **Requirements:** Python 3.11+, Node.js (for Lighthouse), [Ollama](https://ollama.com/).
 
 ```bash
-git clone https://github.com/natashasemenova/a11y-ai-auditor.git
+git clone https://github.com/natashkasemenova/a11y-ai-auditor.git
 cd a11y-ai-auditor
 
 # Python dependencies
