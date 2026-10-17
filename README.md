@@ -109,7 +109,9 @@ Run the agent from the Terminal or from a Python IDE (e.g., Spyder, whose Variab
 python main_agent.py
 ```
 
-> **Prerequisite:** The Ollama server must be running and the Llama 3 model must be available locally (`ollama list`).
+> **Prerequisite:**
+> - The Ollama server must be running and the Llama 3 model must be available locally (`ollama list`).
+> - Run the script from the project folder, so that `standards.db` and `report.json` are found.
 
 ### 3. Sample Output
 
